@@ -1,0 +1,5 @@
+# Ignore all .doc and .txt files in all directories
+**/*.doc
+**/*.txt
+
+/样例代码
